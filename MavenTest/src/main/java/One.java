@@ -1,3 +1,6 @@
+/**
+ * @author Administrator
+ */
 public class One {
 
     public void DaYin(){
